@@ -1,0 +1,26 @@
+# 学生学习档案（隐私，不进仓库）
+Learning/
+**/Learning/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.log
+*.tmp
+*.bak

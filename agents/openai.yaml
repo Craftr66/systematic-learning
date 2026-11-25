@@ -1,0 +1,3 @@
+interface:
+  display_name: "系统化学习导师"
+  short_description: "通过诊断、授课、练习与考核持续提升能力，并跨会话恢复学习进度"
